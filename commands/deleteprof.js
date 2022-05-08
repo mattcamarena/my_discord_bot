@@ -1,6 +1,6 @@
 module.exports = {
 	name: 'deleteprofile',
-	description: "bet",
+	description: "deleteprof",
 	execute(message,args){
 		let mongoose;
 		const monLog = "key";
